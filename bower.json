@@ -1,0 +1,17 @@
+{
+  "name": "angularjs-slider",
+  "version": "0.1.6",
+  "homepage": "https://github.com/tannerlinsley/angularjs-slider",
+  "authors": [
+    "tannerlinsley"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
